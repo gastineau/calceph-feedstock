@@ -3,11 +3,11 @@ About calceph-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/calceph-feedstock/blob/main/LICENSE.txt)
 
-Home: https://www.imcce.fr/inpop/calceph/
+Home: https://calceph.imcce.fr/
 
 Package license: CECILL-C OR CECILL-B OR CECILL-2.1
 
-Summary: A library to access the binary planetary ephemeris files, such INPOPxx, JPL DExxx and SPICE ephemeris files.
+Summary: A library to access the binary ephemeris files of solar system bodies
 
 Current build status
 ====================
